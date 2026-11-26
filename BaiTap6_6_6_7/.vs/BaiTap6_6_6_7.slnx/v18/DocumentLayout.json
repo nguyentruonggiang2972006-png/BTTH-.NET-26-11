@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\dal\\dbconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:dal\\dbconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\gui\\frmbankatmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:gui\\frmbankatmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\gui\\frmbankatmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:gui\\frmbankatmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\gui\\frmatmgridmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:gui\\frmatmgridmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\gui\\frmatmreconciliation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:gui\\frmatmreconciliation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\gui\\frmatmstations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:gui\\frmatmstations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\bus\\powergridbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:bus\\powergridbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\bus\\atmbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:bus\\atmbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\dal\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:dal\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\dal\\atmdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:dal\\atmdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\dto\\gridoverloadlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:dto\\gridoverloadlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\dto\\substaiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:dto\\substaiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\dto\\reconciliationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:dto\\reconciliationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|c:\\tailieuepu\\namba\\kymot\\.net dsk\\btth\\btth26-11\\baitap6_6_6_7\\dto\\atmstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62F55E-D99B-4D70-8F51-89F67D0D92E9}|BaiTap6_6_6_7.csproj|solutionrelative:dto\\atmstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBankAtmMain.cs [Design]",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmBankAtmMain.cs",
+              "RelativeDocumentMoniker": "GUI\\frmBankAtmMain.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmBankAtmMain.cs [Design]",
+              "RelativeToolTip": "GUI\\frmBankAtmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:20:44.425Z",
+              "EditorCaption": " [Design]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAtmGridMonitor.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmAtmGridMonitor.cs",
+              "RelativeDocumentMoniker": "GUI\\frmAtmGridMonitor.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmAtmGridMonitor.cs",
+              "RelativeToolTip": "GUI\\frmAtmGridMonitor.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAYwGoBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:11:55.685Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBankAtmMain.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmBankAtmMain.cs",
+              "RelativeDocumentMoniker": "GUI\\frmBankAtmMain.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmBankAtmMain.cs",
+              "RelativeToolTip": "GUI\\frmBankAtmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:11:16.368Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:15:12.318Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbConnectionHelper.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DAL\\DbConnectionHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\DbConnectionHelper.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DAL\\DbConnectionHelper.cs",
+              "RelativeToolTip": "DAL\\DbConnectionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:08:34.71Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAtmReconciliation.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmAtmReconciliation.cs",
+              "RelativeDocumentMoniker": "GUI\\frmAtmReconciliation.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmAtmReconciliation.cs",
+              "RelativeToolTip": "GUI\\frmAtmReconciliation.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:11:36.706Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAtmStations.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmAtmStations.cs",
+              "RelativeDocumentMoniker": "GUI\\frmAtmStations.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\GUI\\frmAtmStations.cs",
+              "RelativeToolTip": "GUI\\frmAtmStations.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAgwO4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:12:48.357Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-26T01:15:05.794Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtmBUS.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\BUS\\AtmBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\AtmBUS.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\BUS\\AtmBUS.cs",
+              "RelativeToolTip": "BUS\\AtmBUS.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:09:57.503Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PowerGridBUS.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\BUS\\PowerGridBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\PowerGridBUS.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\BUS\\PowerGridBUS.cs",
+              "RelativeToolTip": "BUS\\PowerGridBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:10:39.407Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Power.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DAL\\Power.cs",
+              "RelativeDocumentMoniker": "DAL\\Power.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DAL\\Power.cs",
+              "RelativeToolTip": "DAL\\Power.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:09:23.895Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AtmDAL.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DAL\\AtmDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\AtmDAL.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DAL\\AtmDAL.cs",
+              "RelativeToolTip": "DAL\\AtmDAL.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:08:46.235Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GridOverloadLogDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\GridOverloadLogDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\GridOverloadLogDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\GridOverloadLogDTO.cs",
+              "RelativeToolTip": "DTO\\GridOverloadLogDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:06:33.596Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubstaionDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\SubstaionDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SubstaionDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\SubstaionDTO.cs",
+              "RelativeToolTip": "DTO\\SubstaionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:06:05.829Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReconciliationResultDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\ReconciliationResultDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ReconciliationResultDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\ReconciliationResultDTO.cs",
+              "RelativeToolTip": "DTO\\ReconciliationResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:05:44.786Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AtmStationDTO.cs",
+              "DocumentMoniker": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\AtmStationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AtmStationDTO.cs",
+              "ToolTip": "C:\\TaiLieuEPU\\NamBa\\KyMot\\.NET DSK\\BTTH\\BTTH26-11\\BaiTap6_6_6_7\\DTO\\AtmStationDTO.cs",
+              "RelativeToolTip": "DTO\\AtmStationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T01:05:18.223Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
